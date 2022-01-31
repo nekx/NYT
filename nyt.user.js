@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        Advertise this you assholes
 // @namespace   Violentmonkey Scripts
-// @match       https://www.nytimes.com/2022/01/31/business/media/new-york-times-wordle.html
+// @match       https://www.nytimes.com*
 // @grant       none
 // @version     1.0
 // @author      -
